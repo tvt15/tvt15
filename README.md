@@ -28,10 +28,6 @@
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tvt15&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tvt15&theme=default&hide_border=true)<br/>
-
 
 ### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
